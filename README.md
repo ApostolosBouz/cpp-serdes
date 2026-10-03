@@ -1,2 +1,2 @@
-# cpp-serdes
-Serialisation - deserialisation using stl
+# Basic stl serialisation - deserialisation
+*Messing around with*
